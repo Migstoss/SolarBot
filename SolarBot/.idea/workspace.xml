@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="872d5af2-8e93-49f5-9209-deee5db0d7eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1WA5WtesncfBcDeuhn6f5OwVgkX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SolarBot3" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jeremy\Documents\Apps\node\SolarBot\assets\images" />
+      <recent name="C:\Users\Jeremy\Documents\Apps\node\SolarBot\assets" />
+      <recent name="C:\Users\Jeremy\Documents\Apps\node\SolarBot\commands\random" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="872d5af2-8e93-49f5-9209-deee5db0d7eb" name="Default Changelist" comment="" />
+      <created>1578579598334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578579598334</updated>
+      <workItem from="1578579613299" duration="809000" />
+      <workItem from="1578580502020" duration="6823000" />
+      <workItem from="1578684801508" duration="169000" />
+      <workItem from="1578685013968" duration="7156000" />
+      <workItem from="1578923843245" duration="853000" />
+      <workItem from="1578924746327" duration="2456000" />
+      <workItem from="1579103455617" duration="687000" />
+      <workItem from="1579296998434" duration="8267000" />
+      <workItem from="1579641620414" duration="989000" />
+      <workItem from="1579642654163" duration="2981000" />
+      <workItem from="1579698976503" duration="3538000" />
+      <workItem from="1579786511673" duration="654000" />
+      <workItem from="1579872549272" duration="697000" />
+      <workItem from="1580331950037" duration="3069000" />
+      <workItem from="1580393753527" duration="1130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="113" key="#JavaScript" timestamp="1579642717723">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="113" key="#JavaScript/0.0.1280.984@0.0.1280.984" timestamp="1579642717723" />
+    <state x="232" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578924665390">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1578924665390" />
+    <state x="380" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579641853411">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="380" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1579641853411" />
+    <state x="320" y="218" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578923969825">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="320" y="218" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.984@0.0.1280.984" timestamp="1578923969825" />
+    <state x="420" y="245" key="FileChooserDialogImpl" timestamp="1580393781112">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="245" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1580393781112" />
+    <state width="196" height="539" key="HiddenNamespacesPopup" timestamp="1578925085633">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="196" height="539" key="HiddenNamespacesPopup/0.0.1280.984@0.0.1280.984" timestamp="1578925085633" />
+    <state x="141" y="122" key="SettingsEditor" timestamp="1579699570761">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="122" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1579699570761" />
+    <state x="341" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1578579617708">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="341" y="314" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1578579617708" />
+    <state x="296" y="221" key="run.anything.popup" timestamp="1578579702642">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="221" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1578579702642" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1578688181325">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1578688181325" />
+  </component>
+</project>
